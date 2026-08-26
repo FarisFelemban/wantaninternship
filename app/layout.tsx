@@ -20,9 +20,9 @@ const themeInitializationScript = `
 `;
 
 export const metadata: Metadata = {
-  title: "WantanInternship",
+  title: "WantAnInternship | Internship & New Grad Resources",
   description:
-    "A curated directory of internship websites, GitHub repositories, startup job boards, research programs and government opportunities.",
+    "A curated directory and career toolkit for students and new grads finding internships, software engineering roles, research programs and early-career opportunities.",
 };
 
 export default function RootLayout({
