@@ -7,7 +7,7 @@ export default function ToolsPage() {
       <header className="site-header">
         <div className="container header-inner">
           <a className="brand" href="/">
-            WantanInternship
+            WantAnInternship
           </a>
 
           <nav className="main-nav tools-page-nav" aria-label="Tools navigation">
@@ -58,9 +58,7 @@ export default function ToolsPage() {
 
             <a
               className="email-button"
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=wantaninternship@gmail.com&su=Tool%20submission%20for%20WantanInternship"
-              target="_blank"
-              rel="noreferrer"
+              href="mailto:wantaninternship@gmail.com?subject=Tool%20submission%20for%20WantAnInternship"
             >
               Submit a tool
             </a>
